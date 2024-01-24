@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'medicaldemo3'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_29B669C94CAE40BE9E761090FA683F2F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FD761C56E30948F29842D55805BC9C2A }}
